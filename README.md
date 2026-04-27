@@ -10,7 +10,7 @@ Proyecto evolutivo de 8 semanas que parte de HTML/CSS/JS vanilla y migra a un st
 
 ## Estado actual
 
-Semana 1: setup inicial.
+Semana 1 completada.
 
 ## Cómo correr
 
